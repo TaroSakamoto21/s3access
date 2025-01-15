@@ -2,8 +2,8 @@ import boto3
 from botocore.exceptions import NoCredentialsError
 
 # Configuration
-API_KEY = "4p1k3yl34k3dpubl1cn3tw0rkg17hubr3p0g1t0ry"
-SECRET_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+API_KEY = "SECRETS"
+SECRET_KEY = "SECRETS"
 BUCKET_NAME = "employee"
 REGION = "Tokyo"  # e.g., "us-east-1"
 
