@@ -1,0 +1,4 @@
+s3 urls
+　- s3 : https://osint20250115.s3-ap-northeast-1.amazonaws.com/
+　- test.txt : https://osint20250115.s3-ap-northeast-1.amazonaws.com/test.txt
+　- flag.txt : https://osint20250115.s3-ap-northeast-1.amazonaws.com/flag.txt
